@@ -22,52 +22,38 @@
             }
           },
           {
-            "id": "5babc488d1fd756f",
+            "id": "e4e5ee8a113b7dcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ангем/Определения/Векторное пространство.md",
+                "file": "Ангем/Определения/Аффинные пространства.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Векторное пространство"
-            }
-          },
-          {
-            "id": "c6d92afbb359d609",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ангем/Определения/Векторное пространство.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Векторное пространство"
+              "title": "Аффинные пространства"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "b71314ae58a1572e",
+        "id": "9950e1518a908f67",
         "type": "tabs",
         "children": [
           {
-            "id": "5d13892ed0e6d0bc",
+            "id": "b223d492a0a13faa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ангем/Теоремы и леммы/Векторное пространство.md",
+                "file": "Ангем/Теоремы и леммы/Аффинные пространства.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Векторное пространство"
+              "title": "Аффинные пространства"
             }
           }
         ]
@@ -143,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ангем/Теоремы и леммы/Векторное пространство.md",
+                "file": "Ангем/Теоремы и леммы/Аффинные пространства.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Векторное пространство"
+              "title": "Обратные ссылки для Аффинные пространства"
             }
           },
           {
@@ -162,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ангем/Теоремы и леммы/Векторное пространство.md",
+                "file": "Ангем/Теоремы и леммы/Аффинные пространства.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Векторное пространство"
+              "title": "Исходящие ссылки из Аффинные пространства"
             }
           },
           {
@@ -205,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ангем/Теоремы и леммы/Векторное пространство.md",
+                "file": "Ангем/Теоремы и леммы/Аффинные пространства.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Векторное пространство"
+              "title": "Структура Аффинные пространства"
             }
           }
         ]
@@ -232,11 +218,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "5d13892ed0e6d0bc",
+  "active": "b223d492a0a13faa",
   "lastOpenFiles": [
+    "Ангем/Определения/Аффинные пространства.md",
+    "Ангем/Содержание.md",
+    "Ангем/Теоремы и леммы/Аффинные пространства.md",
     "Ангем/Определения/Векторное пространство.md",
     "Ангем/Теоремы и леммы/Векторное пространство.md",
-    "Ангем/Содержание.md",
     "Ангем/Теоремы и леммы",
     "Ангем/Определения",
     "Ангем"
